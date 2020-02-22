@@ -1,3 +1,6 @@
+<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+<script src="https://wow.zamimg.com/widgets/power.js"></script>
+
 ## Пара советов на тему Holy Priest'а
 
 Не все советы могут быть истинными, комментарии в виде pull request приветствуются.
