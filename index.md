@@ -1,4 +1,4 @@
-<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+<script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: true};</script>
 <script src="https://wow.zamimg.com/widgets/power.js"></script>
 
 ## Пара советов на тему Holy Priest'а
