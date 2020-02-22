@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Пара советов на тему Holy Priest'а
 
-You can use the [editor on GitHub](https://github.com/drcrazy/hpriest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Не все советы могут быть истинными, комментарии в виде pull request приветствуются.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Перед запуском WoW
+Перед запуском устновите или обновите аддоны.
+1. [Сlassic EPGP](https://discordapp.com/channels/620682853709250560/643531403912282112/643534836186742795) из Дискорда. Это специально доработанная напильником версия, которая учитывает вашу химию. А также позволит получить лут с боссов. 
+2. [Deadly Boss Mode](https://www.curseforge.com/wow/addons/deadly-boss-mods ) - отображает таймеры на события во время битвы с боссами. 
+3. [Decursive](https://www.curseforge.com/wow/addons/decursive) - поможет вам действительно **быстро** снимать магию и болезни с рейда. Тем самым обеспечит вам призовые места по диспеллам на боссах. 
+4. [HealBot Classic](https://www.curseforge.com/wow/addons/healbot-classic) - поможет лечить весь рейд, а не только свою группу. Поможет снизить потери маны на оверхил. 
+5. [ClassicThreatMeter](https://www.curseforge.com/wow/addons/classicthreatmeter) - нужен на тех боссах, где вы можете сорвать аггро. Например, Ваэль. 
 
-### Markdown
+### Перед рейдом
+0. Починитесь.
+1. Купите свечки. Лучше две стопки. Во время рейда место в сумках вам не столь важно, не насыпят вам вот так сразу много-много эпиков. А вот баффать рейд точечными баффами будете очень долго.
+2. [Сильнейшее зелье маны](https://ru.classic.wowhead.com/item=13444/) - минимум 1 стопка. На рейдов на освоение контента лучше две стопки.
+3. [Тёмная руна](https://ru.classic.wowhead.com/item=20520) или же [Демоническая руна](https://ru.classic.wowhead.com/item=12662) - 5 штук любой
+4. [Суп из ночницы](https://ru.classic.wowhead.com/item=13931) - по количеству боссов, на которых вам мана важнее выносливости. Для рейдов на освоение контента - 1 стопка.
+5. Еда на выносливость, например [Сочный стейк из волчатины](https://ru.classic.wowhead.com/item=18045) - на тех боссов, где выносливость важнее маны.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drcrazy/hpriest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Во время рейда
