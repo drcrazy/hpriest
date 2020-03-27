@@ -61,8 +61,23 @@
 
 ## Спина
 
+|[Плащ Шитья](https://ru.classic.wowhead.com/item=22960)| Наксрамас | Лоскутик | 93.56 |
+|[Плащ ясности](https://ru.classic.wowhead.com/item=21583)| AQ40 | К'Тун | 90.17 |
+|[Накидка Чистой мысли](https://ru.classic.wowhead.com/item=19430)| ЛКТ | Пламегор | 66.77 |
+|[Пелерина Благословения](https://ru.classic.wowhead.com/item=18208)| Калимдор | Азурегос | 55.51 |
+|[Сень Природы](https://ru.classic.wowhead.com/item=18510)| Крафт | Кожевничество | 53.61 |
+
+## Грудь
+
 |[]()|  |  |  |
 
+## Запястья
+
+|[Наручники Веры](https://ru.classic.wowhead.com/item=22519)| Наксрамас (Квест) | Глут, Фарлина, Ануб'Рекан | 77.43 |
+
+## Кисти рук
+
+|[]()|  |  |  |
 
 
 
@@ -80,5 +95,5 @@
 
 
 
-<script>var whTooltips = {colorLinks: false, iconizeLinks: true, renameLinks: true};</script>
+<script>var whTooltips = {iconizeLinks: true, renameLinks: true};</script>
 <script src="https://wow.zamimg.com/widgets/power.js"></script>
