@@ -12,7 +12,7 @@
 2. [Deadly Boss Mode](https://www.curseforge.com/wow/addons/deadly-boss-mods ) - отображает таймеры на события во время битвы с боссами. 
 3. [Decursive](https://www.curseforge.com/wow/addons/decursive) - поможет вам действительно **быстро** снимать магию и болезни с рейда. Тем самым обеспечит вам призовые места по диспеллам на боссах. 
 4. [HealBot Classic](https://www.curseforge.com/wow/addons/healbot-classic) - поможет лечить весь рейд, а не только свою группу. Поможет снизить потери маны на оверхил. 
-5. [ClassicThreatMeter](https://www.curseforge.com/wow/addons/classicthreatmeter) - нужен на тех боссах, где вы можете сорвать аггро. Например, Ваэль. 
+5. [ThreatClassic2](https://www.curseforge.com/wow/addons/threatclassic2) - нужен на тех боссах, где вы можете сорвать аггро. Например, Ваэль. 
 
 *Опциональные*
 
