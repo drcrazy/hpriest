@@ -45,6 +45,14 @@
   * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227) 
   * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
   * [Чары для плаща: сопротивление III](https://ru.classic.wowhead.com/spell=20014) (5)
+* [Ледовый жилет](https://ru.classic.wowhead.com/item=22652) (40) - крафт
+* [Ледовые накулачники](https://ru.classic.wowhead.com/item=22655) (20) - крафт
+* [Ледовые перчатки](https://ru.classic.wowhead.com/item=22654) (30) - крафт
+* [Ледовые поножи](https://ru.classic.wowhead.com/item=22700) (40) - крафт
+* [Ледяная хватка Рамаладни](https://ru.classic.wowhead.com/item=22707) (25) - задание
 
 
 
+
+<script>var whTooltips = {iconizeLinks: true, renameLinks: true};</script>
+<script src="https://wow.zamimg.com/widgets/power.js"></script>
