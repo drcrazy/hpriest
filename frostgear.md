@@ -36,7 +36,7 @@
 Избежать урона от магии льда на Сапфироне не выйдет. Радиус ауры в три раза больше радиуса ваших заклинаний. 
 В худшем случае - вы будете слишком подготовлены к бою, что сделает сам бой проще.
 
-Предлагаемый набор предметов на сопротивление магии льда
+#### Что есть из нормального
 * Т2 шапка с Ониксии (10)
   * [Ледяная защита](https://ru.classic.wowhead.com/quest=9211) (10)
 * [Ледовый плащ](https://ru.classic.wowhead.com/item=22658) (24) - крафт
@@ -46,10 +46,44 @@
   * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
   * [Чары для плаща: сопротивление III](https://ru.classic.wowhead.com/spell=20014) (5)
 * [Ледовый жилет](https://ru.classic.wowhead.com/item=22652) (40) - крафт
+  * 7х [Морозная руна](https://ru.classic.wowhead.com/item=22682)
+  * 8х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - два стака ткани
+  * 6х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+  * 8х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227)
 * [Ледовые накулачники](https://ru.classic.wowhead.com/item=22655) (20) - крафт
+  * 4х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 2х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - 10шт. ткани
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227) 
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
 * [Ледовые перчатки](https://ru.classic.wowhead.com/item=22654) (30) - крафт
+  * 5х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 4х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - стак ткани
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227) 
+  * 4х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
 * [Ледовые поножи](https://ru.classic.wowhead.com/item=22700) (40) - крафт
+  * 2х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+  * 2х [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+  * 30 золотых
+  * [Ледяная защита](https://ru.classic.wowhead.com/quest=9211) (10)
 * [Ледяная хватка Рамаладни](https://ru.classic.wowhead.com/item=22707) (25) - задание
+  * [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+  * [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+
+#### Итого по материалам, которые вам надо собрать самому
+* 18х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - 90шт. ткани
+* 20х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227) 
+* 16х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+* 3х [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+* [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+* 2х [Простая Вечная субстанция](https://ru.classic.wowhead.com/item=16202)
+* [Сердце огня](https://ru.classic.wowhead.com/item=7077)
+* [Ядро земли](https://ru.classic.wowhead.com/item=7075)
+* [Магическая сфера воды](https://ru.classic.wowhead.com/item=7079)
+* [Дыхание ветра](https://ru.classic.wowhead.com/item=7081)
+* [Лимфа нежити](https://ru.classic.wowhead.com/item=7972)
+* 30 золотых
 
 
 
