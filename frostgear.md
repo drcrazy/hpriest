@@ -24,7 +24,6 @@
 
 Гильдии в предметах с Наксрамаса также могут ориентироваться на это значение.
 
-
 #### 200-250 сопротивления магии льда
 Бойцы ближнего боя и офф-танки из большинства гильдий будут ориентироваться на это значение. Получить 200 сопротивления без баффов достаточно просто с крафтовыми и квестовыми предметами.
 
@@ -59,7 +58,7 @@
   * 4х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - стак ткани
   * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227) 
   * 4х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
-* [Ледовые поножи](https://ru.classic.wowhead.com/item=22700) (40) - крафт
+* [Ледовые поножи](https://ru.classic.wowhead.com/item=22700) (40) - задание
   * 2х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
   * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
   * 2х [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
@@ -84,8 +83,227 @@
 * [Лимфа нежити](https://ru.classic.wowhead.com/item=7972)
 * 30 золотых
 
+### Кожа для разбойников и ферал друидов
+Бойцы ближнего боя будут в эпицентре событий. Надо не щелкать клювом весь бой, чтобы избежать получения большого количества урона. Рестор друиды и совы  - смотрите на тряпки из списка выше.
+
+#### Что есть из нормального
+* Т2 шапка с Ониксии (10)
+  * [Ледяная защита](https://ru.classic.wowhead.com/quest=9211) (10)
+* [Ледовый плащ](https://ru.classic.wowhead.com/item=22658) (24) - крафт
+  * 5х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 4х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - стак ткани
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227) 
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+  * [Чары для плаща: сопротивление III](https://ru.classic.wowhead.com/spell=20014) (5)
+* [Снежный мундир](https://ru.classic.wowhead.com/item=22661) (40) - крафт
+  * 7х [Морозная руна](https://ru.classic.wowhead.com/item=22682)
+  * 16х [Зачарованная кожа](https://ru.classic.wowhead.com/item=12810)
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+  * 2х [Обработанная грубая шкура](https://ru.classic.wowhead.com/item=15407)
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227)
+* [Снежные наручи](https://ru.classic.wowhead.com/item=22663) (20) - крафт
+  * 4х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 12х [Зачарованная кожа](https://ru.classic.wowhead.com/item=12810)
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+  * 2х [Обработанная грубая шкура](https://ru.classic.wowhead.com/item=15407)
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227)
+* [Снежные перчатки](https://ru.classic.wowhead.com/item=22662) (30) - крафт
+  * 5х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 12х [Зачарованная кожа](https://ru.classic.wowhead.com/item=12810)
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+  * 3х [Обработанная грубая шкура](https://ru.classic.wowhead.com/item=15407)
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227)
+* [Снежные поножи](https://ru.classic.wowhead.com/item=22701) (40) - задание
+  * 2х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+  * 2х [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+  * 30 золотых
+  * [Ледяная защита](https://ru.classic.wowhead.com/quest=9211) (10)
+* [Ледяная хватка Рамаладни](https://ru.classic.wowhead.com/item=22707) (25) - задание
+  * [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+  * [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+
+#### Итого по материалам, которые вам надо собрать самому
+* 4х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - 20шт. ткани
+* 40х [Зачарованная кожа](https://ru.classic.wowhead.com/item=12810)
+* 9х [Обработанная грубая шкура](https://ru.classic.wowhead.com/item=15407)
+* 16х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227)
+* 10х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+* 3х [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+* [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+* 30 золотых
+* 2х [Простая Вечная субстанция](https://ru.classic.wowhead.com/item=16202)
+* [Сердце огня](https://ru.classic.wowhead.com/item=7077)
+* [Ядро земли](https://ru.classic.wowhead.com/item=7075)
+* [Магическая сфера воды](https://ru.classic.wowhead.com/item=7079)
+* [Дыхание ветра](https://ru.classic.wowhead.com/item=7081)
+* [Лимфа нежити](https://ru.classic.wowhead.com/item=7972)
+
+### Кольчуга для охотников
+Избежать урона от ауры не выйдет, даже если стоять на максимальном расстоянии. Ну кроме как стоять не в комнате с боссом ^\_^
+В худшем случае у вас будет больше сопротивления, чем надо, что сделает бой не таким тяжелым. 
+
+#### Что есть из нормального
+* Т2 шапка с Ониксии (10)
+  * [Ледяная защита](https://ru.classic.wowhead.com/quest=9211) (10)
+* [Ледовый плащ](https://ru.classic.wowhead.com/item=22658) (24) - крафт
+  * 5х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 4х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - стак ткани
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227) 
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+  * [Чары для плаща: сопротивление III](https://ru.classic.wowhead.com/spell=20014) (5)
+* [Кираса из ледяной чешуи](https://ru.classic.wowhead.com/item=22664) (40) - крафт
+  * 7х [Морозная руна](https://ru.classic.wowhead.com/item=22682)
+  * 24х [Толстая чешуя скорпида](https://ru.classic.wowhead.com/item=15408)
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+  * 4х [Обработанная грубая шкура](https://ru.classic.wowhead.com/item=15407)
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227)
+* [Наручи из ледяной чешуи](https://ru.classic.wowhead.com/item=22665) (20) - крафт
+  * 4х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 16х [Толстая чешуя скорпида](https://ru.classic.wowhead.com/item=15408)
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+  * 2х [Обработанная грубая шкура](https://ru.classic.wowhead.com/item=15407)
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227)
+* [Рукавицы из ледяной чешуи](https://ru.classic.wowhead.com/item=22666) (20) - крафт
+  * 4х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 16х [Толстая чешуя скорпида](https://ru.classic.wowhead.com/item=15408)
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+  * 3х [Обработанная грубая шкура](https://ru.classic.wowhead.com/item=15407)
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227)
+* [Поножи из ледяной чешуи](https://ru.classic.wowhead.com/item=22702) (40) - задание
+  * 2х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+  * 2х [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+  * 30 золотых
+ * [Ледяная хватка Рамаладни](https://ru.classic.wowhead.com/item=22707) (25) - задание
+  * [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+  * [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360) 
+  
+#### Итого по материалам, которые вам надо собрать самому
+* 4х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - 20шт. ткани
+* 56х [Толстая чешуя скорпида](https://ru.classic.wowhead.com/item=15408)
+* 9х [Обработанная грубая шкура](https://ru.classic.wowhead.com/item=15407)
+* 16х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227)
+* 10х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+* 3х [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+* [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+* 30 золотых
+* 2х [Простая Вечная субстанция](https://ru.classic.wowhead.com/item=16202)
+* [Сердце огня](https://ru.classic.wowhead.com/item=7077)
+* [Ядро земли](https://ru.classic.wowhead.com/item=7075)
+* [Магическая сфера воды](https://ru.classic.wowhead.com/item=7079)
+* [Дыхание ветра](https://ru.classic.wowhead.com/item=7081)
+* [Лимфа нежити](https://ru.classic.wowhead.com/item=7972)  
+  
+  
+### Латы для войнов и паладинов
+Танкам - латы с сопротивлением магии льда. Тут всё понятно. ДПС войнам и ретрикам - на выбор между кожей (ловкость), кольчугой (АП или ловкость) и латами (сила). Холи палам - смотреть на тряпки.
+
+#### Что есть из нормального
+* Т2 шапка с Ониксии (10)
+  * [Ледяная защита](https://ru.classic.wowhead.com/quest=9211) (10)
+* [Ледовый плащ](https://ru.classic.wowhead.com/item=22658) (24) - крафт
+  * 5х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 4х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - стак ткани
+  * 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227) 
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+  * [Чары для плаща: сопротивление III](https://ru.classic.wowhead.com/spell=20014) (5)
+* [Кираса Ледяной погибели](https://ru.classic.wowhead.com/item=22669) (42) - крафт, фанаты Дугласа Адамса ликуют
+  * 7х [Морозная руна](https://ru.classic.wowhead.com/item=22682)
+  * 16х [Ториевый слиток](https://ru.classic.wowhead.com/item=12359)
+  * 2х [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+  * 4х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+* [Наручи Ледяной погибели](https://ru.classic.wowhead.com/item=22671) (24) - крафт, почти 42, только наоборот
+  * 4х [Морозная руна](https://ru.classic.wowhead.com/item=22682)
+  * 12х [Ториевый слиток](https://ru.classic.wowhead.com/item=12359)
+  * 2х [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+* [Рукавицы Ледяной погибели](https://ru.classic.wowhead.com/item=22670) (32) - крафт
+  * 5х [Морозная руна](https://ru.classic.wowhead.com/item=22682)
+  * 12х [Ториевый слиток](https://ru.classic.wowhead.com/item=12359)
+  * 2х [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+* [Поножи Ледяной погибели](https://ru.classic.wowhead.com/item=22699) (40) - задание
+  * 2х [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * 2х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080) 
+  * 2х [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+  * 30 золотых
+ * [Ледяная хватка Рамаладни](https://ru.classic.wowhead.com/item=22707) (25) - задание
+  * [Морозная руна](https://ru.classic.wowhead.com/item=22682) 
+  * [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+  * [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+  
+#### Итого по материалам, которые вам надо собрать самому
+НА ЛАТЫ. Если не на латы - попросите магов баффнуть инту и пролистайте выше.
+* 4х [Рулон рунной ткани](https://ru.classic.wowhead.com/item=14048)  - 20шт. ткани
+* 40х [Ториевый слиток](https://ru.classic.wowhead.com/item=12359)
+* 7х [Арканитовый слиток](https://ru.classic.wowhead.com/item=12360)
+* 4х [Железношелковая паутина](https://ru.classic.wowhead.com/item=14227) 
+* 12х [Субстанция Воды](https://ru.classic.wowhead.com/item=7080)
+* 3х [Синий сапфир](https://ru.classic.wowhead.com/item=12361)
+* 30 золотых
+* 2х [Простая Вечная субстанция](https://ru.classic.wowhead.com/item=16202)
+* [Сердце огня](https://ru.classic.wowhead.com/item=7077)
+* [Ядро земли](https://ru.classic.wowhead.com/item=7075)
+* [Магическая сфера воды](https://ru.classic.wowhead.com/item=7079)
+* [Дыхание ветра](https://ru.classic.wowhead.com/item=7081)
+* [Лимфа нежити](https://ru.classic.wowhead.com/item=7972) 
+
+_Это на латы. ДД вары и ретрики смотрят больше в сторону кожи и кольчуги_ 
+
+### Стоимость материалов
+6я фаза и Наксрамас уже совсем рядом. Материалы надо было собирать раньше. Сейчас они стоят космических денег. 
 
 
+[Калькулятор затрат](https://docs.google.com/spreadsheets/d/1si6sUHfb4LqRwsBzyB9Fal9RkO3F4BozdNM04xZVSdg/edit?usp=sharing) - скопируйте себе эту Гугл таблицу, внесите актуальные цены. Прослезитесь.
+
+
+Когда слезы просохнут - собирайтесь в Некроситет. Там вам будет репутация (чем выше репутация с Серебряным рассветом тем дешевле попасть в Наксрамас), куча экипировки Редкого качества на разбор и Тёмные руны, которые можно либо продать, либо сожрать. Но лучше продать. Запасной вариант - Стратхольм, живая часть. Там падают сферы, которые тоже можно продать.
+
+
+Если у вас репутации почти нет - Превознесение получить сложно. Сосредоточьтесь на получении Почтения. Кроме подземелий можно еще чистить котлы в Западных чумных землях. Ну и сколько-то репутации дадут во время нашествия плети - событие перед открытием Наксрамаса.
+
+
+### Рецепты на крафт
+Для получения рецептов необходим Кожевенник и Кузнец которого _Превозносят_ в Ордене Серебряного рассвета. Нет репутации - нет рецептов. У портных - халява. Достаточно Почтения.
+
+1. Зайдите в Наксрамас будучи в рейде и отправляйтесь в Военный квартал.
+2. В первой комнате, в клетке, будет сидеть [Мастер-ремесленник Омарион](https://ru.classic.wowhead.com/npc=16365)
+3. Поговорите с ним, он выдаст [Руководство Омариона](https://ru.classic.wowhead.com/quest=9233). Книжка даст задание. Сдайте задание в Часовне Последней Надежды, что даст вам возможность купить предметы на сопротивление магии льда у НПС. Вам оно не надо. По материалам  - столько же и еще куча золота сверху. 
+4. После сдачи книжки (наверное, но это не точно) портной, кожевенник или кузнец могут снова поговорить с Омарионом и изучить рецепты. Надо 300 владения профессией и Превознесение с Орденом Серебряного Рассвета, кроме портных, им попроще.
+
+Если вы портной, кожевенник или кузнец, который хочет крафтить прежметы на сопротивление магии льда - качайте репутацию с [Серебряным рассветом](https://ru.classic.wowhead.com/faction=529) и [Гидраксианские Повелители Вод](https://ru.classic.wowhead.com/faction=749)
+* Кузнец - Превознесение с Серебряным Рассветом и Почтение с Гидраксианскими Повелителями Вод
+* Кожевенник - Превознесение с Серебряным Рассветом и Почтение с Гидраксианскими Повелителями Вод
+* Портной - Почтение с Серебряным Рассветом и Почтение с Гидраксианскими Повелителями Вод
+
+Надо прокачать репутацию хотя бы по одному персонажу из гильдии на каждую профессию до выхода 6й фазы. Некроситет и мёртвая часть Стратхольма - хороший способ совместить прокачку репутации и заработок денег.
+
+Те, кто крафтить не умеет, могут купить предметы у НПС. Но кроме материалов надо принести еще кучу золотых. Гораздо выгоднее попросить крафт в гильдии.
+
+### Еще больше сопротивления магии льда
+Если вам не хватило рун на крафт, то еще не всё потеряно.
+
+[Падает в Наксрамасе](https://classic.wowhead.com/armor/side:1?filter=28:214;2:3456;1:0#0+9-13+20) - Эти предметы падают в Наксрамасе с боссов. Они дополняют крафтовые предметы из списков выше. Кроме того, можно будет собрать более оптимальный набор предметов на сопротивление магии льда. Правда падают не часто и нужны всем. 
+
+Не забываем про [Ледяная защита](https://ru.classic.wowhead.com/quest=9211), которую можно наложить на шапку и штаны. Некоторые классы уже сменили Т2 шапку. Дайте вашей вещи вторую жизнь. Ежели вы еще не продали её торговцу. 
+
+__Сине-зеленый треш с сопротивлением магии льда__ - _это_ падает до 6й фазы, т.е. фармить можно уже сейчас. Если у вас нет предмета на сопротивление магии льда в этот слот - у вас станет больше сопротивления. Кроме того, что-то из этого трешачка таки имеет статы и может послужить неплохой заменой крафтовым\квестовым эпикам на резист. 
+
+* [Тряпки](https://classic.wowhead.com/armor/side:1/type:1?filter=28:238;2:4;1:5)
+* [Кожа](https://classic.wowhead.com/armor/side:1/type:2?filter=28:238;2:4;1:5)
+* [Кольчуга](https://classic.wowhead.com/armor/side:1/type:3?filter=28:238;2:4;1:5)
+* [Латы](https://classic.wowhead.com/armor/side:1/type:4?filter=28:238;2:4;1:5)
+* [Шея](https://classic.wowhead.com/armor/side:1/type:-3?filter=28:238;2:4;1:5)
+* [Плащ](https://classic.wowhead.com/armor/side:1/type:-6?filter=28:238;2:4;1:5)
+* [Кольца](https://classic.wowhead.com/armor/side:1/type:-2?filter=28:238;2:4;1:5)
+* [Серьги](https://classic.wowhead.com/armor/side:1/type:-4?filter=28:238;2:4;1:5)
+
+
+
+Оригинал: [Тык](https://bittsguides.com/frost-resistance-gear-naxxramas/)
 
 <script>var whTooltips = {iconizeLinks: true, renameLinks: true};</script>
 <script src="https://wow.zamimg.com/widgets/power.js"></script>
